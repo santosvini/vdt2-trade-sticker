@@ -2,6 +2,8 @@
 
 <p> Temporada de robot utilizando a library Browser para automação
 
+<br>
+
 <img src="img/trade-sticker-home.png" alt="Home">
 
 ## <a href="https://trade-sticker-dev.vercel.app/" target="_blank">Trade Sticker</a>
