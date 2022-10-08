@@ -13,7 +13,7 @@ Do Login
     User Logged In
 
 Start Test
-    New Browser        headless=False    browser=${BROWSER}
+    New Browser        headless=False
 
 Finish Test
     Sleep                  1
