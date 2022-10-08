@@ -2,7 +2,7 @@
 
 <p> Temporada de robot utilizando a library Browser para automação
 
-<br>
+<br><br>
 
 <img src="img/trade-sticker-home.png" alt="Home">
 
